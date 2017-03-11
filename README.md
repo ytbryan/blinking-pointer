@@ -8,8 +8,9 @@ The caveat is that there should only have one blinking pointer on one page. Too 
 
 ## Installation
 ```
-  <link rel="stylesheet" href="blinking-pointer.css">
+  <link rel="stylesheet" href="https://raw.githubusercontent.com/ytbryan/blinking-pointer/master/blinking-pointer.css">
 ```
+You should probably host this css yourself. 
 
 ## Usage
 
