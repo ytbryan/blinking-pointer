@@ -1,10 +1,10 @@
 ## Blinking pointer for capturing user's attention
 
-## Motivation & caveat
+Features: 
+- capture user's attention with a blink! 
+- efficient. only CSS. no jquery, no javascript
+- ships with multiple colours (white, black, red, yellow, purple, green, orange, pink)
 
-I wish to use blinking pointer on all my existing projects to on-board my users.
-
-> The caveat is there should only be one blinking pointer on a single page. Too many blinking pointers back-fire and distract the users.
 
 ## Installation
 ```
@@ -29,6 +29,12 @@ You should probably host this css yourself.
 </button>
 
 ```
+
+## Motivation & caveat
+
+I wish to use blinking pointer on all my existing projects to on-board my users.
+
+> The caveat is there should only be one blinking pointer on a single page. Too many blinking pointers back-fire and distract the users.
 
 ## DEMO
 
