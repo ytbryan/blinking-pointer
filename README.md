@@ -7,10 +7,18 @@ Features:
 
 
 ## Installation
+
+On localhost
+
 ```
   <link rel="stylesheet" href="https://raw.githubusercontent.com/ytbryan/blinking-pointer/master/blinking-pointer.css">
 ```
-You should probably host this css yourself. 
+
+You should probably host this css yourself. This will avoid issue as github is not a cdn. 
+
+```
+  <link rel="stylesheet" href="css/blinking-pointer.css">
+```
 
 ## Usage
 
@@ -39,6 +47,13 @@ I wish to use blinking pointer on all my existing projects to on-board my users.
 ## DEMO
 
 [http://ytbryan.com/examples/blinking-pointer](http://ytbryan.com/examples/blinking-pointer)
+
+or 
+
+[http://jsfiddle.net/qm0n5uL9/](http://jsfiddle.net/qm0n5uL9/)
+
+
+
 
 ## Contact
 
