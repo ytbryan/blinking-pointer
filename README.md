@@ -4,7 +4,7 @@
 
 I wish to use blinking pointer on all my existing projects to on-board my users.
 
-The caveat is that there should only have one blinking pointer on one page. Too many of them distract the users.
+> The caveat is there should only be one blinking pointer on a single page. Too many blinking pointers back-fire and distract the users.
 
 ## Installation
 ```
