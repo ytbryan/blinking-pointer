@@ -33,3 +33,13 @@ You should probably host this css yourself.
 ## DEMO
 
 [http://ytbryan.com/examples/blinking-pointer](http://ytbryan.com/examples/blinking-pointer)
+
+## Contact
+
+ytbryan@gmail.com 
+
+> If you use this in your project or find this useful, let me know through email on how you use it. 
+
+## License
+
+MIT 
