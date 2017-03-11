@@ -1,7 +1,9 @@
 ## Blinking pointer for capturing user's attention
 
-Features: 
-- capture user's attention with a blink! 
+![an example gif](/example.gif)
+
+Features:
+- capture user's attention with a blink!
 - efficient. only CSS. no jquery, no javascript
 - ships with multiple colours (white, black, red, yellow, purple, green, orange, pink)
 
@@ -14,7 +16,7 @@ On localhost
   <link rel="stylesheet" href="https://raw.githubusercontent.com/ytbryan/blinking-pointer/master/blinking-pointer.css">
 ```
 
-You should probably host this css yourself. This will avoid issue as github is not a cdn. 
+You should probably host this css yourself. This will avoid issue as github is not a cdn.
 
 ```
   <link rel="stylesheet" href="css/blinking-pointer.css">
@@ -48,7 +50,7 @@ I wish to use blinking pointer on all my existing projects to on-board my users.
 
 [http://ytbryan.com/examples/blinking-pointer](http://ytbryan.com/examples/blinking-pointer)
 
-or 
+or
 
 [http://jsfiddle.net/qm0n5uL9/](http://jsfiddle.net/qm0n5uL9/)
 
@@ -57,10 +59,10 @@ or
 
 ## Contact
 
-ytbryan@gmail.com 
+ytbryan@gmail.com
 
-> If you use this in your project or find this useful, let me know through email on how you use it. 
+> If you use this in your project or find this useful, let me know through email on how you use it.
 
 ## License
 
-MIT 
+MIT
